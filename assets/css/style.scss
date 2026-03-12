@@ -4,12 +4,7 @@
 @import "{{ site.theme }}";
 body {
   /* Fallback background color in case the gradient doesn't load */
-  background-color: #372476;
+  background-color: ##7AD7F0;
   /* The linear gradient itself */
-  background: linear-gradient(to right, #372476, #3b173b);
-  /* Add vendor prefixes for maximum compatibility (optional but recommended) */
-  background: -webkit-linear-gradient(to right, #372476, #3b173b); /* Safari 5.1, Chrome 10+ */
-  background: -moz-linear-gradient(to right, #372476, #3b173b); /* Firefox 3.6+ */
-  background: -ms-linear-gradient(to right, #372476, #3b173b); /* IE 10 */
-  background: -o-linear-gradient(to right, #372476, #3b173b); /* Opera 11.10+ */
+  background: linear-gradient(to right, ##7AD7F0, #B7E9F7);
 }
