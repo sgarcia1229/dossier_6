@@ -1,13 +1,5 @@
 
 body {
-/* Gray background areas now light purple */
-dd {
-    background-color: #cbc3e3; /* light purple */
-    padding: 15px;             /* space inside the block */
-    border-radius: 8px;        /* rounded corners */
-    margin: 10px 0;            /* spacing between blocks */
-    line-height: 1.6;          /* easier to read */
-}
 
 h1 {
    color:black;
